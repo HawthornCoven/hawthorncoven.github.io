@@ -4,6 +4,7 @@ author: WitchfulThoughts
 email: 
 lang: en-uk
 copyright: "&#x2117; &amp; &#xA9; 2020"
+theme: 'jekyll-theme-architect', '~> 0.2.0'
 logo: /assets/img/logo.png
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
