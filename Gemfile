@@ -11,7 +11,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem 'jekyll-theme-minimal'
+# gem "jekyll-theme-minimal"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -31,4 +31,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
-
